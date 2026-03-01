@@ -1,0 +1,9 @@
+# Datasets
+datasets/
+
+# Models
+*.pth
+*.pt
+
+# Virtual environment
+venv/
