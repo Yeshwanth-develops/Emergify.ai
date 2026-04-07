@@ -188,7 +188,7 @@ Decision Path: Rule-based override
 
 Final Severity: HIGH (Confidence: 0.95)
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Multi-label scene classification
 
